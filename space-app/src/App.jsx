@@ -12,7 +12,9 @@ const FundoGradiente = styled.div`
 `;
 
 function App() {
-  return <FundoGradiente></FundoGradiente>;
+  return <FundoGradiente>
+    Teste
+  </FundoGradiente>;
 }
 
 export default App;
